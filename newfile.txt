@@ -1,2 +1,4 @@
 This is first file in this folder.
 add another file to the folder and commit it.
+This is another zone of fun.
+Sometimes i am thinking everthing is well.
