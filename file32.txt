@@ -1,4 +1,9 @@
 This is my file for bug-fixing.
 I want to run software on this server.
 yes i m doing well in software development.
+<<<<<<< HEAD
 Hey what goin on in your code.
+=======
+This is something that going is wrong.
+Something is going good for our future.
+>>>>>>> green-mode
